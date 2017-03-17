@@ -1,2 +1,3 @@
 # hello-world
-Just to learn how GitHub works
+This is my first day here at GitHub.
+I have created this repository just to learn how GitHub works.
